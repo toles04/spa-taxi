@@ -1,0 +1,36 @@
+footer{
+  background-color : #222;
+  color : #FFF;
+  padding : 20px;
+}
+
+#third-layer{
+   background-color : #EEE;
+}
+
+#black-layer{
+   background-color : #000;
+}
+
+#yellow-layer{
+   background-color : #fdd61c;
+}
+
+#transparent-layer{
+   background-color : rgba(5, 9, 12, 0.78);
+}
+
+.top-bar{
+  background-color : #000;
+  padding-top : 3px;
+}
+
+.img-bg h1 {
+	font-family: "Brush Script MT", compact;
+	font-size: 42px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+  color : #FFF;
+}
